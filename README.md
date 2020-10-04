@@ -34,3 +34,6 @@ The set of variables that were estimated from these signals are:
 
 mean(): Mean value
 std(): Standard deviation
+
+fue de mucha importancia el artculo descrito en https://thoughtfulbloke.wordpress.com/2015/09/09/getting-and-cleaning-the-assignment/ aqui me aclaro las confusiones que tenia acerca de que archivos utilizar asi tambien el uso de read.table y luego el uso de view para verificar los datos que se iban generando.
+El uso de la funcion de ayuda ? fue de gran importancia para ver como podia volver a los detalles de las funciones que deseaba utilizar
