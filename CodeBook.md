@@ -1,3 +1,4 @@
+#Fue de cucha utilidad el resumen descrito en https://thoughtfulbloke.wordpress.com/2015/09/09/getting-and-cleaning-the-assignment/
 #Dado el conjunto de datos UCI HAR Dataset
 #Los datos se descargaron y descomprimieron en la carpeta data ubicada en
 #Mis documentos.
