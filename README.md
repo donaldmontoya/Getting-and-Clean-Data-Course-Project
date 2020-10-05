@@ -36,4 +36,7 @@ mean(): Mean value
 std(): Standard deviation
 
 fue de mucha importancia el artculo descrito en https://thoughtfulbloke.wordpress.com/2015/09/09/getting-and-cleaning-the-assignment/ aqui me aclaro las confusiones que tenia acerca de que archivos utilizar asi tambien el uso de read.table y luego el uso de view para verificar los datos que se iban generando.
-El uso de la funcion de ayuda ? fue de gran importancia para ver como podia volver a los detalles de las funciones que deseaba utilizar
+El uso de la funcion de ayuda ? fue de gran importancia para ver como podia volver a los detalles de las funciones que deseaba utilizar.
+
+Para que el archivo funciones correctamente debe descargar los archivos originales en un directorio data dentro de Mis Documentos.
+Dentro del script run_analysis.R hay muchas indicaciones de cada una de las variables que utilizo y las acciones realizadas.
